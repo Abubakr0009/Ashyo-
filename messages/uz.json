@@ -1,0 +1,12 @@
+{
+    "HeaderTopContent": {
+        "tashkent": "Toshkent",
+        "about-us": "Biz haqimizda",
+        "products": "Maxsulotlar",
+        "contacts": "Aloqa"
+    },
+    "HeaderCenterContent":{
+        "category":"Kategoriya",
+        "placeholder":"Nimani qidiryapsiz?"
+    }
+}
