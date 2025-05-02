@@ -9,4 +9,5 @@ export const getBanners = () => {
     }))
 
     return{data, isLoading, isError}
+    
 }
